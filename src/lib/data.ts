@@ -8,14 +8,14 @@ export const siteConfig = {
   tagline: "Crane & Engineering Solutions",
   phone: "+91 80764 41377",
   phoneHref: "tel:+918076441377",
-  email: "contact@uniqueengineering.online",
-  emailHref: "mailto:contact@uniqueengineering.online",
+  email: "pankaj@uniqueengineering.cc",
+  emailHref: "mailto:pankaj@uniqueengineering.cc",
   whatsapp: "918076441377",
   whatsappLink: "https://wa.me/918076441377",
   location: "Bisrakh Jalalpur, Uttar Pradesh, India",
   hours: "Mon – Sat: 9:00 AM – 7:00 PM",
-  since: 2010,
-  copyright: "© 2025 Unique Engineering. All rights reserved.",
+  since: 2024,
+  copyright: "© 2026 Unique Engineering. All rights reserved.",
   description:
     "Unique Engineering delivers expert crane erection, gearboxes, VFDs, AMC and more across Delhi NCR & Pan-India.",
 };
