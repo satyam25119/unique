@@ -1,0 +1,866 @@
+- generic
+  - StaticText "Call us: +91 80764 41377 | Mon–Sat: 9 AM – 7 PM"
+- banner
+  - navigation
+    - button "Unique ENGINEERING" [ref=e10]
+      - StaticText "Unique"
+      - StaticText "ENGINEERING"
+    - list
+      - listitem [level=1]
+        - button "Home" [ref=e167]
+          - StaticText "Home"
+      - listitem [level=1]
+        - button "About" [ref=e168]
+      - listitem [level=1]
+        - button "Products" [ref=e169]
+      - listitem [level=1]
+        - button "Services" [ref=e170]
+      - listitem [level=1]
+        - button "Gallery" [ref=e171]
+      - listitem [level=1]
+        - button "Blog" [ref=e172]
+      - listitem [level=1]
+        - button "Contact Us" [ref=e173]
+- main
+  - generic
+    - generic
+    - generic
+      - StaticText "TRUSTED CRANE & ENGINEERING PARTNER"
+      - heading "Unique Engineering" [level=1, ref=e174]
+        - StaticText "Unique"
+        - LineBreak "\n"
+        - StaticText "Engineering"
+      - paragraph
+        - StaticText "Expert crane erection, mechanical systems & maintenance solutions across Delhi NCR and Pan-India."
+      - button "Our Services" [ref=e175]
+      - link "Get a Quote" [ref=e176]
+      - StaticText "10+ Years Experience"
+      - StaticText "150+ Projects"
+      - StaticText "Pan-India"
+      - StaticText "0"
+      - StaticText "+"
+      - paragraph
+        - StaticText "Years Experience"
+      - StaticText "0"
+      - StaticText "+"
+      - paragraph
+        - StaticText "Projects Completed"
+      - StaticText "👥"
+      - StaticText "0"
+      - StaticText "+"
+      - paragraph
+        - StaticText "Trusted Clients"
+      - StaticText "0"
+      - StaticText "+"
+      - paragraph
+        - StaticText "States Served"
+    - generic
+      - StaticText "Scroll"
+  - StaticText "Crane Erection & Dismantling"
+  - StaticText "Gearboxes & Drives"
+  - StaticText "VFDs & Electrical"
+  - StaticText "AMC Services"
+  - StaticText "Safety Devices"
+  - StaticText "Pan-India Projects"
+  - StaticText "Crane Erection & Dismantling"
+  - StaticText "Gearboxes & Drives"
+  - StaticText "VFDs & Electrical"
+  - StaticText "AMC Services"
+  - StaticText "Safety Devices"
+  - StaticText "Pan-India Projects"
+  - generic
+    - StaticText "WHO WE ARE"
+  - heading "India's Trusted Crane Experts" [level=2, ref=e11]
+    - StaticText "India's Trusted"
+    - LineBreak "\n"
+    - StaticText "Crane Experts"
+  - paragraph
+    - StaticText "Unique Engineering, led by Pankaj Kumar, provides expert engineering & crane solutions across Delhi NCR & India. We deliver excellence on every project — large or small — with a commitment to safety, quality, and timely execution."
+  - StaticText "Safety First"
+  - StaticText "Quality Assured"
+  - StaticText "Pan-India"
+  - button "Learn More" [ref=e12]
+  - StaticText "10+"
+  - StaticText "YEARS"
+  - StaticText "150+"
+  - StaticText "PROJECTS"
+  - StaticText "75+"
+  - StaticText "CLIENTS"
+  - StaticText "12+"
+  - StaticText "STATES"
+  - generic
+    - StaticText "WHAT WE DO"
+  - heading "Our Core Services" [level=2, ref=e13]
+  - paragraph
+    - StaticText "Comprehensive engineering solutions for cranes, industrial machinery, and safety systems."
+  - StaticText "🏭"
+  - heading "Crane Erection & Dismantling" [level=3, ref=e14]
+  - paragraph
+    - StaticText "Professional setup and dismantling of overhead, EOT, and tower cranes at industrial sites."
+  - button "Learn more →" [ref=e15]
+  - StaticText "⚙️"
+  - heading "Gearbox Solutions" [level=3, ref=e16]
+  - paragraph
+    - StaticText "Supply, installation, and repair of heavy-duty gearboxes for crane and industrial drives."
+  - button "Learn more →" [ref=e17]
+  - StaticText "⚡"
+  - heading "VFDs & Electrical" [level=3, ref=e18]
+  - paragraph
+    - StaticText "Variable frequency drive installation, electrical panel wiring, and commissioning services."
+  - button "Learn more →" [ref=e19]
+  - StaticText "🔧"
+  - heading "AMC & Breakdown" [level=3, ref=e20]
+  - paragraph
+    - StaticText "Annual maintenance contracts and rapid response breakdown services to minimize downtime."
+  - button "Learn more →" [ref=e21]
+  - StaticText "🛡️"
+  - heading "Safety Devices" [level=3, ref=e22]
+  - paragraph
+    - StaticText "Supply and fitment of limit switches, overload relays, and crane safety protection systems."
+  - button "Learn more →" [ref=e23]
+  - StaticText "🏽"
+  - heading "Hoist Assembly" [level=3, ref=e24]
+  - paragraph
+    - StaticText "Complete hoist unit assembly, wire rope replacement, and hook block maintenance."
+  - button "Learn more →" [ref=e25]
+  - button "View All Services →" [ref=e102]
+  - generic
+    - StaticText "WHY US"
+  - heading "Why Choose Unique Engineering?" [level=2, ref=e26]
+  - StaticText "⏱️"
+  - heading "Timely Execution" [level=4, ref=e27]
+  - paragraph
+    - StaticText "We respect deadlines. Our team ensures projects are completed on time, every time."
+  - StaticText "⚙️"
+  - heading "Customized Engineering" [level=4, ref=e28]
+  - paragraph
+    - StaticText "Every solution is tailored to your specific project requirements and budget."
+  - StaticText "📍"
+  - heading "Pan-India Reach" [level=4, ref=e29]
+  - paragraph
+    - StaticText "Active across Delhi NCR and across India with a growing pan-India footprint."
+  - StaticText "🏅"
+  - heading "Decade of Experience" [level=4, ref=e30]
+  - paragraph
+    - StaticText "10+ years of hands-on expertise in crane and mechanical engineering systems."
+  - generic
+    - StaticText "CLIENT REVIEWS"
+  - heading "What Our Clients Say" [level=2, ref=e31]
+  - paragraph
+    - StaticText "“Unique Engineering erected two EOT cranes at our plant within the agreed timeline. Their team was professional, safety-conscious, and the commissioning was flawless. Highly recommend them for any crane project.”"
+  - StaticText "RK"
+  - heading "Rajesh Kumar" [level=5, ref=e32]
+  - paragraph
+    - StaticText "Plant Manager, Steel Fabricators, Noida"
+  - paragraph
+    - StaticText "“We had an emergency gearbox failure on a critical crane. Unique Engineering responded within hours and had us back up and running the next morning. Their AMC service has saved us countless hours of downtime.”"
+  - StaticText "AS"
+  - heading "Anil Sharma" [level=5, ref=e33]
+  - paragraph
+    - StaticText "Factory Head, Warehouse Operations, Delhi"
+  - paragraph
+    - StaticText "“Their VFD installation work transformed our overhead crane operations. Energy costs dropped significantly and the crane runs smoother than ever. Technical team is knowledgeable and well-trained.”"
+  - StaticText "PM"
+  - heading "Praveen Mehta" [level=5, ref=e34]
+  - paragraph
+    - StaticText "Operations Director, Logistics Park, Gurgaon"
+  - button [disabled, ref=e35]
+  - button [ref=e36]
+  - button [ref=e37]
+  - button [ref=e38]
+  - button [ref=e39]
+  - button [ref=e40]
+  - button [ref=e41]
+  - generic
+    - StaticText "FROM OUR DESK"
+  - heading "Latest Insights" [level=2, ref=e2]
+  - article
+    - StaticText "Crane Safety"
+    - heading "5 Critical Crane Inspection Checklist Items" [level=3, ref=e42]
+    - paragraph
+      - StaticText "Routine crane inspections are vital to prevent on-site accidents and extend equipment life..."
+    - StaticText "March 2025"
+    - StaticText "Read More"
+  - article
+    - StaticText "Maintenance"
+    - heading "When Should You Replace Your Crane Gearbox?" [level=3, ref=e43]
+    - paragraph
+      - StaticText "Gearbox failure is one of the top causes of crane downtime. Learn the warning signs..."
+    - StaticText "February 2025"
+    - StaticText "Read More"
+  - article
+    - StaticText "Technology"
+    - heading "How VFDs Improve Crane Efficiency & Safety" [level=3, ref=e44]
+    - paragraph
+      - StaticText "Variable frequency drives reduce mechanical stress and improve speed control for cranes..."
+    - StaticText "January 2025"
+    - StaticText "Read More"
+  - generic
+    - StaticText "WHO WE ARE"
+  - heading "Engineering Excellence Since 2010" [level=2, ref=e103]
+    - StaticText "Engineering Excellence"
+    - LineBreak "\n"
+    - StaticText "Since 2010"
+  - paragraph
+    - StaticText "Unique Engineering is a Delhi-NCR-based engineering service provider specialising in crane erection and dismantling, mechanical systems, and maintenance solutions. Founded and led by Mr. Pankaj Kumar, we're committed to delivering quality, safety, and innovation to every project — big or small, across India."
+  - paragraph
+    - StaticText "Our expertise spans industrial crane solutions, VFDs, gearboxes, safety devices, and comprehensive AMC services, making us a trusted partner for construction firms and industrial facilities nationwide."
+  - StaticText "Safety Certified"
+  - StaticText "IS Standards"
+  - StaticText "Pan-India"
+  - StaticText "0"
+  - StaticText "+"
+  - StaticText "YEARS EXPERIENCE"
+  - StaticText "0"
+  - StaticText "+"
+  - StaticText "PROJECTS COMPLETED"
+  - StaticText "0"
+  - StaticText "+"
+  - StaticText "TRUSTED CLIENTS"
+  - StaticText "0"
+  - StaticText "+"
+  - StaticText "STATES SERVED"
+  - generic
+    - StaticText "PURPOSE & DIRECTION"
+  - heading "Vision & Mission" [level=2, ref=e104]
+  - heading "Our Vision" [level=3, ref=e105]
+  - paragraph
+    - StaticText "To be India's most trusted engineering partner for complex, high-stakes infrastructure and industrial projects — known for safety, quality, and reliability. We aim to set the benchmark for crane and mechanical engineering services across the country."
+  - heading "Our Mission" [level=3, ref=e106]
+  - paragraph
+    - StaticText "To deliver exceptional crane and engineering solutions with uncompromising safety standards, technical expertise, and client-first values. We build long-term partnerships that extend far beyond project completion through dedicated AMC and support services."
+  - generic
+    - StaticText "WHAT WE STAND FOR"
+  - heading "Our Core Values" [level=2, ref=e107]
+  - generic [ref=e108] clickable [cursor:pointer]
+    - generic
+      - heading "Safety First" [level=3, ref=e209]
+      - paragraph
+        - StaticText "Every project begins and ends with safety. We follow IS standards and factory safety regulations on every site."
+  - generic [ref=e109] clickable [cursor:pointer]
+    - generic
+      - heading "Quality Work" [level=3, ref=e210]
+      - paragraph
+        - StaticText "Meticulous precision in every installation. We don't cut corners — our certifications prove it."
+  - generic [ref=e110] clickable [cursor:pointer]
+    - generic
+      - heading "Client Partnership" [level=3, ref=e211]
+      - paragraph
+        - StaticText "We build long-term relationships. Many of our clients have been with us for over 5 years."
+  - generic [ref=e111] clickable [cursor:pointer]
+    - generic
+      - heading "Innovation" [level=3, ref=e212]
+      - paragraph
+        - StaticText "Continuously adopting newer technologies — from VFDs to remote monitoring — to serve clients better."
+  - generic
+    - StaticText "THE PEOPLE"
+  - heading "Meet Our Team" [level=2, ref=e112]
+  - StaticText "PK"
+  - heading "Pankaj Kumar" [level=4, ref=e113]
+  - paragraph
+    - StaticText "Founder & Director"
+  - paragraph
+    - StaticText "10+ years in crane engineering. Leads all major projects and client relationships across India."
+  - StaticText "RK"
+  - heading "Rajiv Kumar" [level=4, ref=e114]
+  - paragraph
+    - StaticText "Lead Crane Technician"
+  - paragraph
+    - StaticText "8+ years specialising in EOT and overhead crane erection and commissioning."
+  - StaticText "AS"
+  - heading "Arjun Singh" [level=4, ref=e115]
+  - paragraph
+    - StaticText "Electrical & VFD Engineer"
+  - paragraph
+    - StaticText "Expert in VFD installation, PLC integration and electrical commissioning for industrial cranes."
+  - StaticText "MV"
+  - heading "Manoj Verma" [level=4, ref=e116]
+  - paragraph
+    - StaticText "AMC & Service Manager"
+  - paragraph
+    - StaticText "Manages all annual maintenance contracts and coordinates rapid breakdown response teams."
+  - generic
+    - StaticText "OUR JOURNEY"
+  - heading "A Decade of Growth" [level=2, ref=e117]
+  - generic
+    - generic
+      - StaticText "2010"
+      - heading "Founded in Delhi NCR" [level=4, ref=e213]
+      - paragraph
+        - StaticText "Unique Engineering was established by Mr. Pankaj Kumar, starting with crane erection services for local industrial clients in the Delhi NCR region."
+    - generic
+      - StaticText "2013"
+      - heading "Expanded to Gearbox & Mechanical Services" [level=4, ref=e214]
+      - paragraph
+        - StaticText "Added gearbox supply, repair, and mechanical maintenance services to meet growing client demand across UP and Haryana."
+    - generic
+      - StaticText "2016"
+      - heading "VFD & Electrical Division Launched" [level=4, ref=e215]
+      - paragraph
+        - StaticText "Established a dedicated team for variable frequency drive installations, significantly expanding the technical capabilities of the company."
+    - generic
+      - StaticText "2019"
+      - heading "Pan-India Projects Begin" [level=4, ref=e216]
+      - paragraph
+        - StaticText "Completed first out-of-state projects in Maharashtra and Gujarat, marking the beginning of a pan-India presence with 50+ active clients."
+    - generic
+      - StaticText "2022"
+      - heading "150+ Projects Milestone" [level=4, ref=e217]
+      - paragraph
+        - StaticText "Crossed the 150-project milestone across 12 states, with a growing AMC client base and repeat business from major industrial clients."
+    - generic
+      - StaticText "2025"
+      - heading "Continuing to Grow" [level=4, ref=e218]
+      - paragraph
+        - StaticText "Today, with 75+ trusted clients and counting, Unique Engineering continues to expand its reach, capabilities, and service quality across India."
+  - generic
+    - StaticText "COMMON QUESTIONS"
+  - heading "Frequently Asked Questions" [level=2, ref=e118]
+  - heading "What types of cranes does Unique Engineering erect?" [level=3, ref=e119]
+    - button "What types of cranes does Unique Engineering erect?" [expanded=false, ref=e177]
+      - StaticText "What types of cranes does Unique Engineering erect?"
+  - heading "Do you operate outside Delhi NCR?" [level=3, ref=e120]
+    - button "Do you operate outside Delhi NCR?" [expanded=false, ref=e178]
+      - StaticText "Do you operate outside Delhi NCR?"
+  - heading "What does an AMC with Unique Engineering include?" [level=3, ref=e121]
+    - button "What does an AMC with Unique Engineering include?" [expanded=false, ref=e179]
+      - StaticText "What does an AMC with Unique Engineering include?"
+  - heading "How quickly can you respond to a breakdown?" [level=3, ref=e122]
+    - button "How quickly can you respond to a breakdown?" [expanded=false, ref=e180]
+      - StaticText "How quickly can you respond to a breakdown?"
+  - heading "Do you provide load testing and certification?" [level=3, ref=e123]
+    - button "Do you provide load testing and certification?" [expanded=false, ref=e181]
+      - StaticText "Do you provide load testing and certification?"
+  - heading "Can you handle both small and large-scale projects?" [level=3, ref=e124]
+    - button "Can you handle both small and large-scale projects?" [expanded=false, ref=e182]
+      - StaticText "Can you handle both small and large-scale projects?"
+  - generic
+    - StaticText "CATALOGUE"
+  - heading "Products & Engineering Solutions" [level=2, ref=e45]
+  - paragraph
+    - StaticText "\"Built for precision. Designed to perform.\""
+  - textbox "Search products, parts, services…" [ref=e125]
+  - generic [ref=e46] clickable [cursor:pointer, onclick]
+    - generic
+      - heading "Crane Erection" [level=3, ref=e183]
+      - paragraph
+        - StaticText "Professional setup & dismantling for all crane types"
+      - generic
+        - StaticText "7 items"
+  - generic [ref=e47] clickable [cursor:pointer, onclick]
+    - generic
+      - heading "Wire Ropes" [level=3, ref=e184]
+      - paragraph
+        - StaticText "High-tensile steel ropes for all load ratings"
+      - generic
+        - StaticText "7 items"
+  - generic [ref=e48] clickable [cursor:pointer, onclick]
+    - generic
+      - heading "Gearboxes" [level=3, ref=e185]
+      - paragraph
+        - StaticText "Heavy-duty gearboxes for industrial crane drives"
+      - generic
+        - StaticText "7 items"
+  - generic [ref=e49] clickable [cursor:pointer, onclick]
+    - generic
+      - heading "VFDs & Electrical" [level=3, ref=e186]
+      - paragraph
+        - StaticText "Variable frequency drives & electrical panels"
+      - generic
+        - StaticText "7 items"
+  - generic [ref=e50] clickable [cursor:pointer, onclick]
+    - generic
+      - heading "Safety Devices" [level=3, ref=e187]
+      - paragraph
+        - StaticText "Limit switches & overload protection systems"
+      - generic
+        - StaticText "7 items"
+  - generic [ref=e51] clickable [cursor:pointer, onclick]
+    - generic
+      - heading "Hoist & Spares" [level=3, ref=e188]
+      - paragraph
+        - StaticText "Electric hoists, brakes, and spare parts"
+      - generic
+        - StaticText "8 items"
+  - generic [ref=e52] clickable [cursor:pointer, onclick]
+    - generic
+      - heading "Motors & Drives" [level=3, ref=e189]
+      - paragraph
+        - StaticText "Crane duty motors, gear motors, and couplings"
+      - generic
+        - StaticText "6 items"
+  - generic [ref=e53] clickable [cursor:pointer, onclick]
+    - generic
+      - heading "AMC Services" [level=3, ref=e190]
+      - paragraph
+        - StaticText "Annual maintenance & breakdown contracts"
+      - generic
+        - StaticText "5 items"
+  - heading "Complete Product List" [level=3, ref=e54]
+  - heading "Crane Erection" [level=4, ref=e55]
+  - StaticText "7"
+  - StaticText " items"
+  - StaticText "EOT Crane Erection"
+  - StaticText "Overhead Crane Setup"
+  - StaticText "Tower Crane Dismantling"
+  - StaticText "Gantry Crane Assembly"
+  - StaticText "Rail Alignment & Leveling"
+  - StaticText "Crane Relocation Services"
+  - StaticText "Load Testing & Commissioning"
+  - heading "Wire Ropes" [level=4, ref=e56]
+  - StaticText "7"
+  - StaticText " items"
+  - StaticText "6x19 Construction Wire Rope"
+  - StaticText "6x36 Wire Rope (Seale)"
+  - StaticText "Fibre Core Wire Rope"
+  - StaticText "IWRC Wire Rope"
+  - StaticText "Galvanised Wire Rope"
+  - StaticText "Drum Rope Assembly"
+  - StaticText "Wire Rope Slings"
+  - heading "Gearboxes" [level=4, ref=e57]
+  - StaticText "7"
+  - StaticText " items"
+  - StaticText "Helical Gearbox"
+  - StaticText "Worm Gear Reducer"
+  - StaticText "Bevel Helical Gearbox"
+  - StaticText "Planetary Gearbox"
+  - StaticText "Parallel Shaft Gearbox"
+  - StaticText "Gearbox Reconditioning"
+  - StaticText "Oil Seal & Bearing Kits"
+  - heading "VFDs & Electrical" [level=4, ref=e58]
+  - StaticText "7"
+  - StaticText " items"
+  - StaticText "AC Variable Frequency Drives"
+  - StaticText "Crane Control Panels"
+  - StaticText "PLC Panels"
+  - StaticText "Contactors & Relays"
+  - StaticText "Pendant Push Button Stations"
+  - StaticText "Radio Remote Controls"
+  - StaticText "Motor Starters (DOL / Star-Delta)"
+  - heading "Safety Devices" [level=4, ref=e59]
+  - StaticText "7"
+  - StaticText " items"
+  - StaticText "Hoist Travel Limit Switch"
+  - StaticText "Long Travel Limit Switch"
+  - StaticText "Cross Travel Limit Switch"
+  - StaticText "Overload Relay"
+  - StaticText "Load Indicator / SLI"
+  - StaticText "Anti-Collision System"
+  - StaticText "Warning Lights & Sirens"
+  - heading "Hoist & Spares" [level=4, ref=e60]
+  - StaticText "8"
+  - StaticText " items"
+  - StaticText "Electric Chain Hoist"
+  - StaticText "Wire Rope Hoist"
+  - StaticText "Hoist Brake Shoes"
+  - StaticText "Hook Block Assembly"
+  - StaticText "Hoist Drums"
+  - StaticText "Hoist Motors"
+  - StaticText "Brake Rectifiers"
+  - StaticText "Hoist Trolley Assembly"
+  - heading "Motors & Drives" [level=4, ref=e61]
+  - StaticText "6"
+  - StaticText " items"
+  - StaticText "Crane Duty Induction Motors"
+  - StaticText "Slip Ring Motors"
+  - StaticText "Brake Motors (FCBR)"
+  - StaticText "Squirrel Cage Motors"
+  - StaticText "Gear Motors"
+  - StaticText "Motor Couplings & Flanges"
+  - heading "AMC Services" [level=4, ref=e62]
+  - StaticText "5"
+  - StaticText " items"
+  - StaticText "Comprehensive AMC Packages"
+  - StaticText "Breakdown Emergency Service"
+  - StaticText "Preventive Maintenance Plans"
+  - StaticText "Safety Inspection & Audit"
+  - StaticText "Load Test Certification"
+  - generic
+    - StaticText "10+"
+  - paragraph
+    - StaticText "Years Experience"
+  - generic
+    - StaticText "150+"
+  - paragraph
+    - StaticText "Projects Completed"
+  - generic
+    - StaticText "75+"
+  - paragraph
+    - StaticText "Trusted Clients"
+  - generic
+    - StaticText "12+"
+  - paragraph
+    - StaticText "States Served"
+  - generic
+    - StaticText "CORE SERVICES"
+  - heading "Everything We Do" [level=2, ref=e126]
+  - paragraph
+    - StaticText "End-to-end crane and engineering solutions for industrial, construction, and infrastructure sectors."
+  - StaticText "01"
+  - heading "Crane Erection & Dismantling" [level=3, ref=e127]
+  - paragraph
+    - StaticText "Professional erection and dismantling of EOT, overhead, gantry, and tower cranes at industrial and construction sites across India."
+  - list
+    - listitem [level=1]
+      - StaticText "EOT & overhead crane erection"
+    - listitem [level=1]
+      - StaticText "Tower crane dismantling"
+    - listitem [level=1]
+      - StaticText "Rail alignment & leveling"
+    - listitem [level=1]
+      - StaticText "Load testing & commissioning"
+    - listitem [level=1]
+      - StaticText "Crane relocation services"
+  - StaticText "02"
+  - heading "Gearbox Solutions" [level=3, ref=e128]
+  - paragraph
+    - StaticText "Supply, installation, and reconditioning of heavy-duty industrial gearboxes for crane cross-travel, long-travel, and hoist drives."
+  - list
+    - listitem [level=1]
+      - StaticText "Helical & worm gearboxes"
+    - listitem [level=1]
+      - StaticText "Motor coupling alignment"
+    - listitem [level=1]
+      - StaticText "Oil seal & bearing replacement"
+    - listitem [level=1]
+      - StaticText "Gearbox reconditioning"
+    - listitem [level=1]
+      - StaticText "Emergency replacement supply"
+  - StaticText "03"
+  - heading "VFDs & Electrical" [level=3, ref=e129]
+  - paragraph
+    - StaticText "Supply, installation, and commissioning of Variable Frequency Drives and electrical systems for improved energy efficiency and control."
+  - list
+    - listitem [level=1]
+      - StaticText "VFD selection & sizing"
+    - listitem [level=1]
+      - StaticText "Panel wiring & integration"
+    - listitem [level=1]
+      - StaticText "Motor drives commissioning"
+    - listitem [level=1]
+      - StaticText "PLC panel installation"
+    - listitem [level=1]
+      - StaticText "Energy audit for cranes"
+  - StaticText "04"
+  - heading "AMC & Breakdown" [level=3, ref=e130]
+  - paragraph
+    - StaticText "Comprehensive Annual Maintenance Contracts and rapid-response breakdown services to minimize downtime and extend equipment life."
+  - list
+    - listitem [level=1]
+      - StaticText "Scheduled preventive maintenance"
+    - listitem [level=1]
+      - StaticText "24/7 breakdown response"
+    - listitem [level=1]
+      - StaticText "Lubrication & inspection reports"
+    - listitem [level=1]
+      - StaticText "Spare parts management"
+    - listitem [level=1]
+      - StaticText "Customised AMC packages"
+  - StaticText "05"
+  - heading "Safety Devices" [level=3, ref=e131]
+  - paragraph
+    - StaticText "Supply and installation of all crane safety and protection devices. We ensure your crane systems comply with IS standards."
+  - list
+    - listitem [level=1]
+      - StaticText "Limit switches (hoist & travel)"
+    - listitem [level=1]
+      - StaticText "Overload protection relays"
+    - listitem [level=1]
+      - StaticText "Anti-collision systems"
+    - listitem [level=1]
+      - StaticText "Pendant & remote controls"
+    - listitem [level=1]
+      - StaticText "Safety audit & compliance"
+  - StaticText "06"
+  - heading "Hoist Assembly" [level=3, ref=e132]
+  - paragraph
+    - StaticText "Complete hoist unit assembly, wire rope reeving, hook block servicing, and drum replacement with certified load testing."
+  - list
+    - listitem [level=1]
+      - StaticText "Wire rope supply & replacement"
+    - listitem [level=1]
+      - StaticText "Drum assembly & machining"
+    - listitem [level=1]
+      - StaticText "Hook block overhaul"
+    - listitem [level=1]
+      - StaticText "Brake shoe replacement"
+    - listitem [level=1]
+      - StaticText "Load testing certification"
+  - generic
+    - StaticText "OUR PROCESS"
+  - heading "How We Deliver Every Project" [level=2, ref=e133]
+  - generic
+    - StaticText "01"
+    - heading "Site Assessment" [level=4, ref=e191]
+    - paragraph
+      - StaticText "Our engineers visit to evaluate requirements, load specs, and safety conditions."
+  - generic
+    - StaticText "02"
+    - heading "Custom Quotation" [level=4, ref=e192]
+    - paragraph
+      - StaticText "A detailed scope and cost proposal within 24–48 hours of site assessment."
+  - generic
+    - StaticText "03"
+    - heading "Execution" [level=4, ref=e193]
+    - paragraph
+      - StaticText "Our trained technicians carry out the project with strict safety and quality protocols."
+  - generic
+    - StaticText "04"
+    - heading "Testing & Handover" [level=4, ref=e194]
+    - paragraph
+      - StaticText "Load testing, final inspection, and complete documentation handover to the client."
+  - generic
+    - StaticText "05"
+    - heading "After-Service Support" [level=4, ref=e195]
+    - paragraph
+      - StaticText "Ongoing support, AMC options, and rapid breakdown response whenever needed."
+  - generic
+    - StaticText "INDUSTRIES"
+  - heading "Sectors We Serve" [level=2, ref=e134]
+  - generic [ref=e135] clickable [cursor:pointer]
+    - generic
+      - heading "Construction Firms" [level=3, ref=e219]
+      - paragraph
+        - StaticText "High-rise and infrastructure construction requiring tower and overhead crane services."
+  - generic [ref=e136] clickable [cursor:pointer]
+    - generic
+      - heading "Industrial Warehouses" [level=3, ref=e220]
+      - paragraph
+        - StaticText "Gantry and EOT crane erection for manufacturing plants and storage facilities."
+  - generic [ref=e137] clickable [cursor:pointer]
+    - generic
+      - heading "Infrastructure Projects" [level=3, ref=e221]
+      - paragraph
+        - StaticText "Bridges, flyovers, and metro rail projects requiring heavy lift solutions."
+  - generic [ref=e138] clickable [cursor:pointer]
+    - generic
+      - heading "Engineering Contractors" [level=3, ref=e222]
+      - paragraph
+        - StaticText "Subcontracting and turnkey crane erection for EPC and general contractors."
+  - generic
+    - StaticText "OUR WORK"
+  - heading "Project Gallery" [level=2, ref=e63]
+  - paragraph
+    - StaticText "\"Real projects. Real results. Across India.\""
+  - button "All Projects" [ref=e64]
+  - button "Crane Erection" [ref=e65]
+  - button "Gearbox" [ref=e66]
+  - button "VFD & Electrical" [ref=e67]
+  - button "AMC & Service" [ref=e68]
+  - button "Safety" [ref=e69]
+  - generic [ref=e70] clickable [cursor:pointer, onclick]
+    - heading "EOT Crane Erection — Noida" [level=4, ref=e196]
+    - paragraph
+      - StaticText "30T Double Girder EOT Crane"
+    - StaticText "View Details"
+  - generic [ref=e71] clickable [cursor:pointer, onclick]
+    - heading "Gearbox Overhaul — Delhi" [level=4, ref=e197]
+    - paragraph
+      - StaticText "Helical Gearbox Reconditioning"
+    - StaticText "View Details"
+  - generic [ref=e72] clickable [cursor:pointer, onclick]
+    - heading "VFD Panel — Gurgaon Warehouse" [level=4, ref=e198]
+    - paragraph
+      - StaticText "Twin 20T Crane VFD Upgrade"
+    - StaticText "View Details"
+  - generic [ref=e73] clickable [cursor:pointer, onclick]
+    - heading "Gantry Crane — Faridabad" [level=4, ref=e199]
+    - paragraph
+      - StaticText "10T Outdoor Gantry Setup"
+    - StaticText "View Details"
+  - generic [ref=e74] clickable [cursor:pointer, onclick]
+    - heading "AMC Service — Noida Client" [level=4, ref=e200]
+    - paragraph
+      - StaticText "4 × EOT Crane Preventive Maintenance"
+    - StaticText "View Details"
+  - generic [ref=e75] clickable [cursor:pointer, onclick]
+    - heading "Safety Devices — Mumbai" [level=4, ref=e201]
+    - paragraph
+      - StaticText "6-Crane Safety Compliance Fitment"
+    - StaticText "View Details"
+  - generic [ref=e76] clickable [cursor:pointer, onclick]
+    - heading "Tower Crane Dismantling — Pune" [level=4, ref=e202]
+    - paragraph
+      - StaticText "Post-Construction Tower Crane Removal"
+    - StaticText "View Details"
+  - generic [ref=e77] clickable [cursor:pointer, onclick]
+    - heading "Wire Rope Replacement — Haryana" [level=4, ref=e203]
+    - paragraph
+      - StaticText "25T Hoist Wire Rope & Drum Rebuild"
+    - StaticText "View Details"
+  - generic [ref=e78] clickable [cursor:pointer, onclick]
+    - heading "PLC Panel — UP Factory" [level=4, ref=e204]
+    - paragraph
+      - StaticText "Multi-Crane PLC Integration"
+    - StaticText "View Details"
+  - generic [ref=e79] clickable [cursor:pointer, onclick]
+    - heading "Crane Relocation — Gujarat" [level=4, ref=e205]
+    - paragraph
+      - StaticText "2 × 15T Overhead Crane Move"
+    - StaticText "View Details"
+  - generic [ref=e80] clickable [cursor:pointer, onclick]
+    - heading "Load Testing — Rajasthan" [level=4, ref=e206]
+    - paragraph
+      - StaticText "Crane Load Test & Certification"
+    - StaticText "View Details"
+  - generic [ref=e81] clickable [cursor:pointer, onclick]
+    - heading "Safety Audit — Delhi NCR" [level=4, ref=e207]
+    - paragraph
+      - StaticText "8-Crane Fleet Compliance Audit"
+    - StaticText "View Details"
+  - generic
+    - StaticText "FROM OUR DESK"
+  - heading "Latest Insights" [level=2, ref=e82]
+  - article
+    - StaticText "Crane Safety"
+    - heading "5 Critical Crane Inspection Checklist Items" [level=3, ref=e139]
+    - paragraph
+      - StaticText "Routine crane inspections are vital to prevent on-site accidents and extend equipment life..."
+    - StaticText "March 2025"
+    - StaticText "Read More"
+  - article
+    - StaticText "Maintenance"
+    - heading "When Should You Replace Your Crane Gearbox?" [level=3, ref=e140]
+    - paragraph
+      - StaticText "Gearbox failure is one of the top causes of crane downtime. Learn the warning signs..."
+    - StaticText "February 2025"
+    - StaticText "Read More"
+  - article
+    - StaticText "Technology"
+    - heading "How VFDs Improve Crane Efficiency & Safety" [level=3, ref=e141]
+    - paragraph
+      - StaticText "Variable frequency drives reduce mechanical stress and improve speed control for cranes..."
+    - StaticText "January 2025"
+    - StaticText "Read More"
+  - generic
+    - StaticText "REACH OUT"
+  - heading "Get in Touch" [level=2, ref=e83]
+  - paragraph
+    - StaticText "\"We're one call away from solving your engineering challenge.\""
+  - heading "Talk to Our Engineering Team" [level=3, ref=e84]
+  - paragraph
+    - StaticText "Available Monday to Saturday, 9 AM – 7 PM. For urgent breakdowns, reach us any time on WhatsApp."
+  - heading "Phone" [level=4, ref=e85]
+  - link "+91 80764 41377" [ref=e86]
+  - heading "Email" [level=4, ref=e87]
+  - link "contact@uniqueengineering.online" [ref=e88]
+  - heading "WhatsApp" [level=4, ref=e89]
+  - link "Chat with us on WhatsApp" [ref=e90]
+  - heading "Location" [level=4, ref=e91]
+  - paragraph
+    - StaticText "Bisrakh Jalalpur, Uttar Pradesh, India"
+  - heading "Working Hours" [level=4, ref=e92]
+  - paragraph
+    - StaticText "Mon – Sat: 9:00 AM – 7:00 PM"
+  - link "Call Now" [ref=e93]
+  - link "WhatsApp" [ref=e94]
+  - Iframe [ref=e95]
+  - heading "Send Us a Message" [level=3, ref=e96]
+  - paragraph
+    - StaticText "Fill in the form and our team will get back to you within 24 hours."
+  - form
+    - LabelText
+      - StaticText "First Name *"
+    - textbox "Pankaj" [required, ref=e142]
+    - LabelText
+      - StaticText "Last Name"
+    - textbox "Kumar" [ref=e143]
+    - LabelText
+      - StaticText "Phone Number *"
+    - textbox "+91 98765 43210" [required, ref=e144]
+    - LabelText
+      - StaticText "Email Address"
+    - textbox "you@company.com" [ref=e145]
+    - LabelText
+      - StaticText "Company / Organisation"
+    - textbox "ABC Construction Pvt. Ltd." [ref=e146]
+    - LabelText
+      - StaticText "Service Required *"
+    - combobox [expanded=false, ref=e147]: -- Select a Service --
+      - MenuListPopup
+        - option "-- Select a Service --" [disabled, ref=e223]
+        - option "Crane Erection & Dismantling" [ref=e224]
+        - option "Gearbox Supply / Repair" [ref=e225]
+        - option "VFDs & Electrical" [ref=e226]
+        - option "AMC / Breakdown Service" [ref=e227]
+        - option "Safety Device Installation" [ref=e228]
+        - option "Hoist & Wire Ropes" [ref=e229]
+        - option "Other / General Inquiry" [ref=e230]
+    - LabelText
+      - StaticText "Project Location"
+    - textbox "Delhi, Mumbai, Pune..." [ref=e148]
+    - LabelText
+      - StaticText "Message / Project Details *"
+    - textbox "Briefly describe your project or requirement..." [required, ref=e149]
+    - button "Send Message" [ref=e150]
+  - generic
+    - StaticText "WHAT TO EXPECT"
+  - heading "Our Response Promise" [level=2, ref=e97]
+  - heading "24-Hour Response" [level=4, ref=e98]
+  - paragraph
+    - StaticText "All inquiries are acknowledged within 24 hours with a detailed reply or callback."
+  - heading "Free Consultation" [level=4, ref=e99]
+  - paragraph
+    - StaticText "Get a free site consultation and no-obligation quotation from our engineers."
+  - heading "Pan-India Reach" [level=4, ref=e100]
+  - paragraph
+    - StaticText "We can mobilise our team to your site anywhere across India, quickly."
+  - heading "Dedicated Support" [level=4, ref=e101]
+  - paragraph
+    - StaticText "A dedicated point of contact is assigned to every project from inquiry to handover."
+- contentinfo
+  - generic
+    - heading "Have a Project? Let's Build It." [level=3, ref=e151]
+    - paragraph
+      - StaticText "Get expert engineering consultation and a free quote today."
+    - link "Call Now" [ref=e152]
+    - button "Send Inquiry" [ref=e153]
+  - StaticText "Unique"
+  - StaticText "ENGINEERING"
+  - paragraph
+    - StaticText "Expert crane erection, mechanical systems, and maintenance solutions across Delhi NCR and Pan-India since 2010."
+  - link [ref=e3]
+  - link [ref=e4]
+  - link [ref=e5]
+  - heading "QUICK LINKS" [level=4, ref=e6]
+  - list
+    - listitem [level=1]
+      - button "Home" [ref=e154]
+    - listitem [level=1]
+      - button "About" [ref=e155]
+    - listitem [level=1]
+      - button "Products" [ref=e156]
+    - listitem [level=1]
+      - button "Services" [ref=e157]
+    - listitem [level=1]
+      - button "Gallery" [ref=e158]
+    - listitem [level=1]
+      - button "Blog" [ref=e159]
+  - heading "SERVICES" [level=4, ref=e7]
+  - list
+    - listitem [level=1]
+      - button "Crane Erection & Dismantling" [ref=e160]
+    - listitem [level=1]
+      - button "Gearbox Solutions" [ref=e161]
+    - listitem [level=1]
+      - button "VFDs & Electrical" [ref=e162]
+    - listitem [level=1]
+      - button "AMC & Breakdown" [ref=e163]
+    - listitem [level=1]
+      - button "Safety Devices" [ref=e164]
+  - heading "CONTACT" [level=4, ref=e8]
+  - list
+    - listitem [level=1]
+      - link "+91 80764 41377" [ref=e165]
+    - listitem [level=1]
+      - link "contact@uniqueengineering.online" [ref=e166]
+    - listitem [level=1]
+      - StaticText "Bisrakh Jalalpur, Uttar Pradesh, India"
+    - listitem [level=1]
+      - StaticText "Mon – Sat: 9:00 AM – 7:00 PM"
+  - StaticText "© 2025 Unique Engineering. All rights reserved."
+  - button "Scroll to top" [ref=e9]
+- link "Chat on WhatsApp" [ref=e1]
+- button "Open Next.js Dev Tools" [expanded=false, ref=e208]
+  - image
+- alert
